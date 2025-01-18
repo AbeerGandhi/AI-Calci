@@ -1,0 +1,14 @@
+idex.tsx:
+    isme vo drawing ke liye option set kiya h matlb kaise drawing hogi ya ky 
+
+constants.ts:
+    usme saare colours h jaise jo website pe chahiye drawing ke liye
+
+backend:
+pip install fastapi Pillow uvicorn pydantic google-generativeai python-dotenv
+
+TO RUN BACKEND:python main.py
+TO RUN FRONTEND:npm run dev 
+
+google ai studio: 
+waha se API key generate karo : AIzaSyBpIcAZjNmWryCjQbPbLBxB6vAFClgbZYs
