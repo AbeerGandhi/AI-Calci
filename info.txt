@@ -11,4 +11,4 @@ TO RUN BACKEND:python main.py
 TO RUN FRONTEND:npm run dev 
 
 google ai studio: 
-waha se API key generate karo : AIzaSyBpIcAZjNmWryCjQbPbLBxB6vAFClgbZYs
+waha se API key generate karo : ___
